@@ -1,2 +1,2 @@
 # Spotify
- Treinando bootstrap, html e css
+ Treinando bootstrap, html e css.
